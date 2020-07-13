@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "533133209497",
+    "firebase_url": "https://ahmedalshmre05-a6b0d.firebaseio.com",
+    "project_id": "ahmedalshmre05-a6b0d",
+    "storage_bucket": "ahmedalshmre05-a6b0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533133209497:android:5cc9c75cf5c4093f7e2d08",
+        "android_client_info": {
+          "package_name": "com.webflutterios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533133209497-bd0kahd9itfpfr91c8sj2uv6k7ssdnmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6KQwGWjmnLQdUFih1Fv1rC15NJW0Y18o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533133209497-bd0kahd9itfpfr91c8sj2uv6k7ssdnmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533133209497:android:de84b87def7f6b007e2d08",
+        "android_client_info": {
+          "package_name": "comahmedalshmre05.example.tesrebasetfi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533133209497-bd0kahd9itfpfr91c8sj2uv6k7ssdnmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6KQwGWjmnLQdUFih1Fv1rC15NJW0Y18o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533133209497-bd0kahd9itfpfr91c8sj2uv6k7ssdnmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
